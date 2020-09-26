@@ -1,1 +1,0 @@
-# goodREADME-generator-
